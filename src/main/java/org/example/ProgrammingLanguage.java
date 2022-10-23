@@ -6,6 +6,7 @@ import java.util.Objects;
 
 @Entity
 @Table(name = "programming_langage")
+
 public class ProgrammingLanguage {
 
     @Id
